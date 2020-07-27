@@ -1,0 +1,30 @@
+[submodule "X12-Parts-Library"]
+	path = X12-Parts-Library
+	url = ./X12-Parts-Library/
+[submodule "VESC-Test"]
+	path = VESC-Test
+	url = ./VESC-Test/
+[submodule "X12-Backplane"]
+	path = X12-Backplane
+	url = ./X12-Backplane/
+[submodule "X12-Camera-Board"]
+	path = X12-Camera-Board
+	url = ./X12-Camera-Board/
+[submodule "X12-PI-Shield"]
+	path = X12-PI-Shield
+	url = ./X12-PI-Shield/
+[submodule "X12-Solenoid-Board"]
+	path = X12-Solenoid-Board
+	url = ./X12-Solenoid-Board/
+[submodule "X12-Power-Bricks"]
+	path = X12-Power-Bricks
+	url = ./X12-Power-Bricks/
+[submodule "X12-Power-Conversion"]
+	path = X12-Power-Conversion
+	url = ./X12-Power-Conversion/
+[submodule "X12-QuadESC"]
+	path = X12-QuadESC
+	url = ./X12-QuadESC/
+[submodule "X12-Distribution"]
+	path = X12-Distribution
+	url = ./X12-Distribution/
