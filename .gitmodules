@@ -28,3 +28,6 @@
 [submodule "X12-Distribution"]
 	path = X12-Distribution
 	url = ./X12-Distribution/
+[submodule "X12-Design-Blocks"]
+	path = X12-Design-Blocks
+	url = ./X12-Design-Blocks/
