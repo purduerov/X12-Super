@@ -1,33 +1,44 @@
 [submodule "X12-Parts-Library"]
 	path = X12-Parts-Library
 	url = https://github.com/purduerov/X12-Parts-Library/
+	branch = master
 [submodule "VESC-Test"]
 	path = VESC-Test
 	url = https://github.com/purduerov/VESC-Test/
+	branch = master
 [submodule "X12-Backplane"]
 	path = X12-Backplane
 	url = https://github.com/purduerov/X12-Backplane
+	branch = Version-3
 [submodule "X12-Camera-Board"]
 	path = X12-Camera-Board
 	url = https://github.com/purduerov/X12-Camera-Board/
+	branch = Version1
 [submodule "X12-PI-Shield"]
 	path = X12-PI-Shield
 	url = https://github.com/purduerov/X12-PI-Shield/
+	branch = Version-2
 [submodule "X12-Solenoid-Board"]
 	path = X12-Solenoid-Board
 	url = https://github.com/purduerov/X12-Solenoid-Board/
+	branch = master
 [submodule "X12-Power-Bricks"]
 	path = X12-Power-Bricks
 	url = https://github.com/purduerov/X12-Power-Bricks/
+	branch = UpdatedConnectors
 [submodule "X12-Power-Conversion"]
 	path = X12-Power-Conversion
 	url = https://github.com/purduerov/X12-Power-Conversion/
+	branch = master
 [submodule "X12-QuadESC"]
 	path = X12-QuadESC
 	url = https://github.com/purduerov/X12-QuadESC/
+	branch = Version1
 [submodule "X12-Distribution"]
 	path = X12-Distribution
 	url = https://github.com/purduerov/X12-Distribution/
+	branch = version1
 [submodule "X12-Design-Blocks"]
 	path = X12-Design-Blocks
 	url = https://github.com/purduerov/X12-Design-Blocks/
+	branch = master

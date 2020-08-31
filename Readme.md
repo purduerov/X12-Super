@@ -18,6 +18,8 @@ When you cd into a submodule, you will be in a detached HEAD state. You will wan
 To get the latest version of each submodule, run:
 	`git submodule foreach --recursive git pull`.
 	Note: you must be on a branch in order to do this.
+	Alternatively, running `git submodule update --remote` will pull the latest
+	commits from the branch tracked in `.gitmodules`, but will finished in a detached head statee.
 
 To set up a new submodule, run:
 	`git submodule add link.copied.from.github`
