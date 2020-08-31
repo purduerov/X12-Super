@@ -9,10 +9,16 @@ To get the version pointed at by the super module (this repo), run:
 	This can be accessed easier via:
 		`git config --global alias.sup 'submodule update --init --recursive'`
 		so that you can then type `git sup`
+
+When you cd into a submodule, you will be in a detached HEAD state. You will want to
+`git switch` or `git checkout` a branch. To find the branches, run `git branch` or
+`git branch -r` to see remote branches.
+
 		
 To get the latest version of each submodule, run:
-	`git submodule foreach [--recursive] git pull`
+	`git submodule foreach --recursive git pull`.
+	Note: you must be on a branch in order to do this.
 
-To set up a new submodule
+To set up a new submodule, run:
 	`git submodule add link.copied.from.github`
 
