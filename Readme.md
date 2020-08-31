@@ -13,7 +13,6 @@ To get the version pointed at by the super module (this repo), run:
 To get the latest version of each submodule, run:
 	`git submodule foreach [--recursive] git pull`
 
-To set up a new submodule, clone the repo with 
-	`git clone link.copied.from.github`
-	then do 
-	`git submodule add X12-Boardname`
+To set up a new submodule
+	`git submodule add link.copied.from.github`
+
